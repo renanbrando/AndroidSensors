@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidSensors</string>
+    <string name="acelerometer">Acelerometer</string>
+    <string name="tts">TTS</string>
+    <string name="stt">STT</string>
+    <string name="all_sensors">All Sensors</string>
+</resources>
